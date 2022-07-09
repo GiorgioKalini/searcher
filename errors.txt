@@ -1,0 +1,70 @@
+'charmap' codec can't decode byte 0x98 in position 1: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\SEO оптимизаци€ текста и изображений\чеклист SEO.txt
+'charmap' codec can't decode byte 0x98 in position 1: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\«апуск яндекс ƒирект\чеклист яндекс ƒирект.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 1\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 1: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 10\чеклист 10.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 10\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 2\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 396: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 3\чеклист 03.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 3\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 1: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 4\чеклист 04.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 4\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 5\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 6\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 7\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 8\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 1: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 9\чеклист 09.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик Landing\ћодуль 9\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 10\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 11\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 12\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 13\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 14\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 15\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 16\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 17\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 18\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 19\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 20\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 21\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 22\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 23\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 5\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 6\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 7\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 8\Ўѕј–√јЋ ј.txt
+'charmap' codec can't decode byte 0x98 in position 24: character maps to <undefined>
+C:\Users\Home\Desktop\Ёффективный веб-разработчик »нтернет магазин\Ёффективный веб-разработчик »нтернет-магазин\ћодуль 9\Ўѕј–√јЋ ј.txt
