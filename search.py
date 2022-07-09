@@ -14,7 +14,7 @@ def search():
                 yield os.path.join(adress, file)
 
 def read_from_pathtxt(path):
-    with open(path) as r:
+    with open(path, encoding='utf_8') as r:
         for i in r:
             if KEY_FOR_SEARCH in i:
                 return copy(path)
@@ -38,5 +38,5 @@ for i in search():
     try:
         read_from_pathtxt(i)
     except Exception as e:
-        with open(os.path.join(PATH_FOR_COPY, 'errors.txt'), 'a') as r:
+        with open(os.path.join(PATH_FOR_COPY, 'errors.txt'), 'a', encoding='utf_8') as r:
             r.write(str(e) + '\n' + i + '\n')
